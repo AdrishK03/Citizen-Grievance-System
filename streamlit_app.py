@@ -12,7 +12,8 @@ Submit your complaint and the system will:
 - 📌 Identify the department  
 - ⚡ Detect urgency  
 - 🚀 Assign priority score  
-""")
+""" )
+
 
 # Input box
 user_input = st.text_area("📝 Enter your complaint", height=150)

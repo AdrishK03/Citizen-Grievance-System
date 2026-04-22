@@ -29,6 +29,7 @@ def preprocess_text(text):
 
     return ' '.join(cleaned)
 
+
 # Department prediction
 def predict_department(text):
     clean = preprocess_text(text)
